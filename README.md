@@ -8,7 +8,12 @@ The board includes:
 
 The board does not contain memory!
 
-The board is designed to connect with modules of the same type, and it has appropriately placed connectors.
+The board is designed to connect with modules of the same type, and it has appropriately placed connectors:
+ - https://github.com/R2AKT/flat_mem_8k
+ - https://github.com/R2AKT/ROM_Disk
+ - https://github.com/R2AKT/USART
+ - https://github.com/R2AKT/RTC
+ - https://github.com/R2AKT/Stepper
 
 Процессорная плата 580ВМ80а.
 
@@ -20,4 +25,9 @@ The board is designed to connect with modules of the same type, and it has appro
 
 Плата не содержит память!
 
-Плата разработана с учётом соединения с однотипными модулями, для чего имеются соответствующим образом размещённые соединители.
+Плата разработана с учётом соединения с однотипными модулями, для чего имеются соответствующим образом размещённые соединители:
+ - https://github.com/R2AKT/flat_mem_8k
+ - https://github.com/R2AKT/ROM_Disk
+ - https://github.com/R2AKT/USART
+ - https://github.com/R2AKT/RTC
+ - https://github.com/R2AKT/Stepper
