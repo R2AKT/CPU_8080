@@ -15,6 +15,8 @@ The board is designed to connect with modules of the same type, and it has appro
  - https://github.com/R2AKT/RTC
  - https://github.com/R2AKT/Stepper
 
+Status: tested in conjunction with an 8k linear memory module at a frequency of up to 3 MHz (quartz resonator 27 MHz).
+
 Процессорная плата 580ВМ80а.
 
 Плата содержит:
@@ -31,3 +33,5 @@ The board is designed to connect with modules of the same type, and it has appro
  - https://github.com/R2AKT/USART
  - https://github.com/R2AKT/RTC
  - https://github.com/R2AKT/Stepper
+
+Статус: проверено совместно с модулем линейной памяти 8к на частоте до 3 МГц (кварцевый резонатор 27 МГц).
