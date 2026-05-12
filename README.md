@@ -8,7 +8,7 @@ The board includes:
 - clock generator = 580GF24 (8224); 
 - data and control bus controller = 580BK28/38 (8228/8238);
 - address bus buffer's = 2x580VA86 = (8286).
-- 
+
 * There is a project option with the replacement of 580IR82/580V86 with 555AP6 (74LS245).
 
 The board does not contain memory!
@@ -29,7 +29,7 @@ Status: tested in conjunction with an 8k linear memory module at a frequency of 
 - тактовый генератор = 580ГФ24;
 - контроллер шины данных и управления = 580ВК28/38;
 - буфер шины адреса = 2x580ВА86.
-- 
+
 * Имеется вариант проекта с заменой 580ИР82/580ВА86 на 555АП6.
 
 Плата не содержит память!
