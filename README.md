@@ -1,6 +1,9 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 License addendum - https://github.com/R2AKT/CPU_8080/blob/main/Addendum.txt
 # CPU_8080
+
+<img src="CPU_8080_top.png">
+
 580VM80a (8080a) CPU board.
 
 The board includes:
