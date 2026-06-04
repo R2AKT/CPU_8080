@@ -3,6 +3,7 @@ License addendum - https://github.com/R2AKT/CPU_8080/blob/main/Addendum.txt
 # CPU_8080
 <img src="CPU_8080_top.png">
 580VM80a (8080a) CPU board.
+For Mega-80 (Mega-580) DIY 8-bit micro-computer - https://github.com/R2AKT/Mega-80.
 
 The board includes:
 - processor = 580BM80a (8080a);
