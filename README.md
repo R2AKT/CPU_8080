@@ -18,6 +18,7 @@ The board does not contain memory!
 Status: tested in conjunction with an 8k linear memory module at a frequency of up to 3 MHz (quartz resonator 27 MHz).
 
 Процессорная плата 580ВМ80а.
+Для самодельной 8-битной микро-ЭВМ - https://github.com/R2AKT/Mega-80.
 
 Плата содержит:
 - процессор = 580ВМ80а;
